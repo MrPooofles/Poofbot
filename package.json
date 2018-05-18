@@ -1,0 +1,38 @@
+{
+  "name": "Poof Bot",
+  "version": "1.0.0",
+  "description": "A good bot for moderations and music",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IceeMC/EmeraldBot.git"
+  },
+  "author": "Mrpooofles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrpooofles/poofbot/issues"
+  },
+  "homepage": "https://github.com/mrpooofles/poofbot/blob/master/README.md",
+  "dependencies": {
+    "canvas": "^1.6.10",
+    "canvas-constructor": "^1.0.1",
+    "chalk": "^2.4.1",
+    "cheerio": "^1.0.0-rc.2",
+    "discord.js": "^11.3.2",
+    "discord.js-lavalink": "^2.0.2",
+    "mongodb": "^3.0.7",
+    "sqlite": "^2.9.1",
+    "superagent": "^3.8.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.0.0-alpha.2",
+    "eslint-config-standard": "^12.0.0-alpha.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.1.0"
+  }
+}
